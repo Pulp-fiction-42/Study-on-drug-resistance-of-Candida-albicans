@@ -1,0 +1,63 @@
+Strain Name	Collection Number	Genetic Background	Description	Heterogeneity	SNVs called (Coordinates relative to A21)	SRA accession #
+Transformation background strains						
+SC5314_AHY1543	AHY1543	SC5314	ADH1/adh1::PTDH3-carTA::SAT1 arg4Δ::/CaARG4 his1∆::hisG/HIS1 RPS1/RPS1::CIp10	Single Colony		SRR27789938
+BWP17	BWP17	BWP17	ura3Δ::λimm434/ura3Δ::λimm434 his1::hisG/his1::hisG arg4::hisG/arg4::hisG	Single Colony		SRR27789909
+KSR1 engineered strains						
+KSR1B/B	AMS5782	SC5314	KSR1B/B transformant	Single Colony		SRR27789924
+KSR1272*/*	AMS5780	SC5314	KSR1 272*/* transformant	Single Colony		SRR27789925
+KSR1 LOH1	AMS5784	SC5314	KSR1 transformant evolved LOH1	Single Colony		SRR27789923
+KSR1 189R/R	AMS6412	SC5314	KSR1 189R/R transformant	Single Colony		SRR29757207
+KSR1A/A	AMS5792	SC5314	KSR1A/A transformant	Single Colony		SRR27789916
+KSR1 heterozygous deletions						
+SC87	SC87	BWP17	deletion of B allele in BWP17 with UAU insert.	Single Colony		SRR27789902
+ksr1a/B het-31	AMS5962	SC5314	Deletion of allele A by CRISPR, NAT1 removed	Single Colony		SRR27789914
+KSR1A/b het 33	AMS5798	SC5314	Deletion of allele B by CRISPR, NAT1 removed	Single Colony		SRR27789915
+KSR1 homozygous deletions						
+SC90	SC90	BWP17	ksr1:::UAU/ksr1::URA3 (#5) ura3Δ::λimm434/ura3Δ::λimm434 his1::hisG/his1::hisG arg4::hisG/arg4::hisG	Single Colony		SRR27789901
+SC91	SC91	BWP17	ksr1:::UAU/ksr1::URA3 (#32) ura3Δ::λimm434/ura3Δ::λimm434 his1::hisG/his1::hisG arg4::hisG/arg4::hisG	Single Colony		SRR27789900
+ksr1/ksr1	FHY029	SC5314_AHY1543	Deletion of alleles A and B by CRISPR	Single Colony		SRR27789907
+ksr1/ksr1	FHY030	SC5314_AHY1543	Deletion of alleles A and B by CRISPR	Single Colony		SRR27789906
+mNeon-Green_Ksr1p strains						
+mNeon-Green-Ksr1B	AMS5964	SC5314	OE construct of mNeonGreen-KSR1B driven by TDH3 promoter with Nat1 maker	Single Colony		SRR27789913
+mNeon-Green-Ksr1A	mNeonGreen-Ksr1A	SC5314	OE construct of mNeonGreen-KSR1A driven by TDH3 promoter with Nat1 maker	Single Colony		SRR27789912
+NCP1 overexpression strains						
+tetO-NCP1B	AMS4611	Sn152	At native locus, NCP1B overexpressed; tetO::NCP1	Single Colony		
+tetO-NCP1A	AMS4615	Sn152	At native locus, NCP1A overexpressed; tetO::NCP1	Single Colony		
+tetO-NCP1, KSR1 LOH1	AMS6379	Sn152	At native locus, NCP1A overexpressed, tetO::NCP1; LOH1 engineered at the KSR1 locus	Single Colony		SRR27789911
+Evolution experiment 1 strains						
+Progenitor	AMS2401	SC5314	SC5314 'wild-type' lab strain used for initiation of evolution experiment	Single Colony		
+P1	AMS5761	SC5314	SC5314 evolved in 1ug/mL FLC colony 7 Passage 1	Population		SRR27789899
+P2	AMS5762	SC5314	SC5314 evolved in 1ug/mL FLC colony 7 Passage 2	Population		SRR27789898
+P3	AMS5763	SC5314	SC5314 evolved in 1ug/mL FLC colony 7 Passage 3	Population		SRR27789897
+P4	AMS5764	SC5314	SC5314 evolved in 1ug/mL FLC colony 7 Passage 4	Population		SRR27789896
+P5	AMS5765	SC5314	SC5314 evolved in 1ug/mL FLC colony 7 Passage 5	Population		SRR27789895
+P6	AMS5766	SC5314	SC5314 evolved in 1ug/mL FLC colony 7 Passage 6	Population		SRR27789942
+P7	AMS5767	SC5314	SC5314 evolved in 1ug/mL FLC colony 7 Passage 7	Population		SRR27789941
+P8	AMS5768	SC5314	SC5314 evolved in 1ug/mL FLC colony 7 Passage 8	Population		SRR27789940
+P9	AMS5769	SC5314	SC5314 evolved in 1ug/mL FLC colony 7 Passage 9	Population		SRR27789939
+P10	AMS4058	SC5314	SC5314 evolved in 1ug/mL FLC colony 7 Passage 10	Population	Chr4:135597T>G	SRR27789937
+P2.1	AMS5787	SC5314	Single colony isolated from P2 (AMS 5762), colony 1	Single Colony		SRR27789922
+P2.2	AMS5788	SC5314	Single colony isolated from P2 (AMS 5762), colony 2	Single Colony		SRR27789920
+P2.3	AMS5789	SC5314	Single colony isolated from P2 (AMS 5762), colony 3	Single Colony		SRR27789919
+P2.4	AMS5790	SC5314	Single colony isolated from P2 (AMS 5762), colony 4	Single Colony		SRR27789918
+P2.5	AMS5791	SC5314	Single colony isolated from P2 (AMS 5762), colony 5	Single Colony		SRR27789917
+P3.1	AMS5770	SC5314	Single colony isolated from P3 (AMS 5763), colony 1	Single Colony		SRR27789936
+P3.2	AMS5771	SC5314	Single colony isolated from P3 (AMS 5763), colony 2	Single Colony		SRR27789935
+P3.3	AMS5772	SC5314	Single colony isolated from P3 (AMS 5763), colony 3	Single Colony		SRR27789934
+P3.4	AMS5773	SC5314	Single colony isolated from P3 (AMS 5763), colony 4	Single Colony		SRR27789933
+P3.5	AMS5774	SC5314	Single colony isolated from P3 (AMS 5763), colony 5	Single Colony		SRR27789931
+P4.1	AMS5775	SC5314	Single colony isolated from P4 (AMS 5764), colony 1	Single Colony		SRR27789930
+P4.2	AMS5776	SC5314	Single colony isolated from P4 (AMS 5764), colony 2	Single Colony		SRR27789929
+P4.3	AMS5777	SC5314	Single colony isolated from P4 (AMS 5764), colony 3	Single Colony		SRR27789928
+P4.4	AMS5778	SC5314	Single colony isolated from P4 (AMS 5764), colony 4	Single Colony		SRR27789927
+P4.5	AMS5779	SC5314	Single colony isolated from P4 (AMS 5764), colony 5	Single Colony		SRR27789926
+P10.1	AMS5545	SC5314	Single colony isolated from P10 (AMS4058), colony 1	Single Colony		SRR27789944
+P10.2	AMS5546	SC5314	Single colony isolated from P10 (AMS4058), colony 2	Single Colony		SRR27789943
+P10.3	AMS5547	SC5314	Single colony isolated from P10 (AMS4058), colony 3	Single Colony		SRR27789932
+P10.4	AMS5548	SC5314	Single colony isolated from P10 (AMS4058), colony 4	Single Colony		SRR27789921
+P10.5	AMS5549	SC5314	Single colony isolated from P10 (AMS4058), colony 5	Single Colony		SRR27789910
+Evolution experiment 2 strains						
+Progenitor	CAY682 (SC5314)	SC5314_CAY682	SC5314 progenitor used to initiate second evolution experiment	Population		SRR27789908
+Evolved LOH2	SC5314_HighFoGA	SC5314_CAY682	SC5314 evolved in 1 ug/mL FLC passage 12	Population	ChrR:789862C>A	SRR27789905
+Evolved LOH3	SC5314_HighFoGB	SC5314_CAY682	SC5314 evolved in 1 ug/mL FLC passage 12	Population	Chr1:3153406G>C, Chr2:1998506A>G, Chr4:634963C>A	SRR27789904
+Evolved LOH4	SC5314_HighFoGC	SC5314_CAY682	SC5314 evolved in 1 ug/mL FLC passage 12	Population	Chr2:1998506A>G	SRR27789903
